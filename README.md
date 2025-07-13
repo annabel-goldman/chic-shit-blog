@@ -118,7 +118,7 @@ Update the CSS variables in both `main.css` and `post.css`:
 
 ### Modifying Fonts
 
-Replace the font imports in both HTML files and update the font-family declarations in both `main.css` and `post.css`:
+Replace the imports in both HTML files and update the font-family declarations in both `main.css` and `post.css`:
 
 ```css
 /* For headers */
