@@ -515,3 +515,25 @@ button:focus {
     outline: 3px solid var(--pink);
     outline-offset: 2px;
 } 
+/* Responsive images - scale medium images based on screen size */
+.post-image {
+    width: 100%;
+    height: auto;
+    max-width: 600px; /* Medium image size */
+    object-fit: cover;
+}
+
+/* Scale down on smaller screens */
+@media (max-width: 480px) {
+    .post-image {
+        max-width: 100%;
+        width: 100%;
+    }
+}
+
+/* Scale up slightly on larger screens */
+@media (min-width: 1200px) {
+    .post-image {
+        max-width: 800px; /* Slightly larger than medium */
+    }
+}
