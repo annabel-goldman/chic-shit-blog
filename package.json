@@ -6,6 +6,9 @@
   "scripts": {
     "check-images": "node check-images.js",
     "optimize-images": "node optimize-images.js",
+    "fix-github-paths": "node fix-github-paths.js",
+    "auto-fix-paths": "node auto-fix-paths.js",
+    "github-fix": "node github-pages-fix.js",
     "start": "python -m http.server 8000",
     "deploy": "chmod +x deploy.sh && ./deploy.sh",
     "test": "echo \"No tests specified\" && exit 0"

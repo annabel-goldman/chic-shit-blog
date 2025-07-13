@@ -11,18 +11,18 @@ const blogPosts = [
             <p>There's something magical about the way autumn transforms our relationship with fashion and beauty. The cooler air invites us to embrace deeper colors, richer textures, and more layered looks that tell a story of comfort and elegance.</p>
             
             <div class="image-gallery">
-                <img src="articles/10-14-2024 Autumn The Mood Board/1.png" alt="Autumn Mood Board 1" class="gallery-image">
-                <img data-src="articles/10-14-2024 Autumn The Mood Board/2.png" alt="Autumn Mood Board 2" class="gallery-image lazy">
-                <img data-src="articles/10-14-2024 Autumn The Mood Board/3.png" alt="Autumn Mood Board 3" class="gallery-image lazy">
-                <img data-src="articles/10-14-2024 Autumn The Mood Board/4.png" alt="Autumn Mood Board 4" class="gallery-image lazy">
-                <img data-src="articles/10-14-2024 Autumn The Mood Board/5.png" alt="Autumn Mood Board 5" class="gallery-image lazy">
-                <img data-src="articles/10-14-2024 Autumn The Mood Board/6.png" alt="Autumn Mood Board 6" class="gallery-image lazy">
-                <img data-src="articles/10-14-2024 Autumn The Mood Board/7.png" alt="Autumn Mood Board 7" class="gallery-image lazy">
+                <img src="articles/10-14-2024%20Autumn%20The%20Mood%20Board/1.png" alt="Autumn Mood Board 1" class="gallery-image">
+                <img data-src="articles/10-14-2024%20Autumn%20The%20Mood%20Board/2.png" alt="Autumn Mood Board 2" class="gallery-image lazy">
+                <img data-src="articles/10-14-2024%20Autumn%20The%20Mood%20Board/3.png" alt="Autumn Mood Board 3" class="gallery-image lazy">
+                <img data-src="articles/10-14-2024%20Autumn%20The%20Mood%20Board/4.png" alt="Autumn Mood Board 4" class="gallery-image lazy">
+                <img data-src="articles/10-14-2024%20Autumn%20The%20Mood%20Board/5.png" alt="Autumn Mood Board 5" class="gallery-image lazy">
+                <img data-src="articles/10-14-2024%20Autumn%20The%20Mood%20Board/6.png" alt="Autumn Mood Board 6" class="gallery-image lazy">
+                <img data-src="articles/10-14-2024%20Autumn%20The%20Mood%20Board/7.png" alt="Autumn Mood Board 7" class="gallery-image lazy">
             </div>
             
             <p>These images represent more than just fashion - they're a celebration of the season's ability to inspire warmth, creativity, and thoughtful style choices that reflect the beauty of change.</p>
         `,
-        image: "articles/10-14-2024 Autumn The Mood Board/1.png",
+        image: "articles/10-14-2024%20Autumn%20The%20Mood%20Board/1.png",
         category: "Mood Board",
         date: "2024-10-14"
     },
@@ -37,18 +37,18 @@ const blogPosts = [
             <p>In a world of fast fashion and quick trends, it's the carefully considered details that create lasting impact. These are the elements that speak to craftsmanship, creativity, and personal style.</p>
             
             <div class="image-gallery">
-                <img src="articles/10-11-2024 My Favorite Details/1.png" alt="Fashion Detail 1" class="gallery-image">
-                <img src="articles/10-11-2024 My Favorite Details/2.png" alt="Fashion Detail 2" class="gallery-image">
-                <img src="articles/10-11-2024 My Favorite Details/3.png" alt="Fashion Detail 3" class="gallery-image">
-                <img src="articles/10-11-2024 My Favorite Details/4.png" alt="Fashion Detail 4" class="gallery-image">
-                <img src="articles/10-11-2024 My Favorite Details/5.png" alt="Fashion Detail 5" class="gallery-image">
-                <img src="articles/10-11-2024 My Favorite Details/6.png" alt="Fashion Detail 6" class="gallery-image">
-                <img src="articles/10-11-2024 My Favorite Details/7.png" alt="Fashion Detail 7" class="gallery-image">
+                <img src="articles/10-11-2024%20My%20Favorite%20Details/1.png" alt="Fashion Detail 1" class="gallery-image">
+                <img src="articles/10-11-2024%20My%20Favorite%20Details/2.png" alt="Fashion Detail 2" class="gallery-image">
+                <img src="articles/10-11-2024%20My%20Favorite%20Details/3.png" alt="Fashion Detail 3" class="gallery-image">
+                <img src="articles/10-11-2024%20My%20Favorite%20Details/4.png" alt="Fashion Detail 4" class="gallery-image">
+                <img src="articles/10-11-2024%20My%20Favorite%20Details/5.png" alt="Fashion Detail 5" class="gallery-image">
+                <img src="articles/10-11-2024%20My%20Favorite%20Details/6.png" alt="Fashion Detail 6" class="gallery-image">
+                <img src="articles/10-11-2024%20My%20Favorite%20Details/7.png" alt="Fashion Detail 7" class="gallery-image">
             </div>
             
             <p>These details remind us that fashion is an art form, where every element serves a purpose in creating something beautiful and meaningful.</p>
         `,
-        image: "articles/10-11-2024 My Favorite Details/1.png",
+        image: "articles/10-11-2024%20My%20Favorite%20Details/1.png",
         category: "Details",
         date: "2024-10-11"
     },
@@ -63,18 +63,18 @@ const blogPosts = [
             <p>This fall, we're seeing a beautiful blend of nostalgia and innovation, with designers and style enthusiasts alike embracing both comfort and drama in equal measure.</p>
             
             <div class="image-gallery">
-                <img src="articles/9-26-2024 My Fall 2024 Trend Predictions/1.png" alt="Fall Trend 1" class="gallery-image">
-                <img src="articles/9-26-2024 My Fall 2024 Trend Predictions/2.png" alt="Fall Trend 2" class="gallery-image">
-                <img src="articles/9-26-2024 My Fall 2024 Trend Predictions/3.png" alt="Fall Trend 3" class="gallery-image">
-                <img src="articles/9-26-2024 My Fall 2024 Trend Predictions/4.png" alt="Fall Trend 4" class="gallery-image">
-                <img src="articles/9-26-2024 My Fall 2024 Trend Predictions/5.png" alt="Fall Trend 5" class="gallery-image">
-                <img src="articles/9-26-2024 My Fall 2024 Trend Predictions/6.png" alt="Fall Trend 6" class="gallery-image">
-                <img src="articles/9-26-2024 My Fall 2024 Trend Predictions/7.png" alt="Fall Trend 7" class="gallery-image">
+                <img src="articles/9-26-2024%20My%20Fall%202024%20Trend%20Predictions/1.png" alt="Fall Trend 1" class="gallery-image">
+                <img src="articles/9-26-2024%20My%20Fall%202024%20Trend%20Predictions/2.png" alt="Fall Trend 2" class="gallery-image">
+                <img src="articles/9-26-2024%20My%20Fall%202024%20Trend%20Predictions/3.png" alt="Fall Trend 3" class="gallery-image">
+                <img src="articles/9-26-2024%20My%20Fall%202024%20Trend%20Predictions/4.png" alt="Fall Trend 4" class="gallery-image">
+                <img src="articles/9-26-2024%20My%20Fall%202024%20Trend%20Predictions/5.png" alt="Fall Trend 5" class="gallery-image">
+                <img src="articles/9-26-2024%20My%20Fall%202024%20Trend%20Predictions/6.png" alt="Fall Trend 6" class="gallery-image">
+                <img src="articles/9-26-2024%20My%20Fall%202024%20Trend%20Predictions/7.png" alt="Fall Trend 7" class="gallery-image">
             </div>
             
             <p>These trends represent more than just seasonal updates - they're a reflection of our collective desire for authenticity, creativity, and self-expression through fashion.</p>
         `,
-        image: "articles/9-26-2024 My Fall 2024 Trend Predictions/1.png",
+        image: "articles/9-26-2024%20My%20Fall%202024%20Trend%20Predictions/1.png",
         category: "Trends",
         date: "2024-09-26"
     },
@@ -89,21 +89,21 @@ const blogPosts = [
             <p>There's something electric about a truly great runway show - the way it can transport you, challenge your perceptions, and introduce you to new ways of seeing fashion and beauty.</p>
             
             <div class="image-gallery">
-                <img src="articles/9-25-2024 My Favorite Runways/1.png" alt="Runway 1" class="gallery-image">
-                <img src="articles/9-25-2024 My Favorite Runways/2.png" alt="Runway 2" class="gallery-image">
-                <img src="articles/9-25-2024 My Favorite Runways/3.png" alt="Runway 3" class="gallery-image">
-                <img src="articles/9-25-2024 My Favorite Runways/4.png" alt="Runway 4" class="gallery-image">
-                <img src="articles/9-25-2024 My Favorite Runways/5.png" alt="Runway 5" class="gallery-image">
-                <img src="articles/9-25-2024 My Favorite Runways/6.png" alt="Runway 6" class="gallery-image">
-                <img src="articles/9-25-2024 My Favorite Runways/7.png" alt="Runway 7" class="gallery-image">
-                <img src="articles/9-25-2024 My Favorite Runways/8.png" alt="Runway 8" class="gallery-image">
-                <img src="articles/9-25-2024 My Favorite Runways/9.png" alt="Runway 9" class="gallery-image">
-                <img src="articles/9-25-2024 My Favorite Runways/10.png" alt="Runway 10" class="gallery-image">
+                <img src="articles/9-25-2024%20My%20Favorite%20Runways/1.png" alt="Runway 1" class="gallery-image">
+                <img src="articles/9-25-2024%20My%20Favorite%20Runways/2.png" alt="Runway 2" class="gallery-image">
+                <img src="articles/9-25-2024%20My%20Favorite%20Runways/3.png" alt="Runway 3" class="gallery-image">
+                <img src="articles/9-25-2024%20My%20Favorite%20Runways/4.png" alt="Runway 4" class="gallery-image">
+                <img src="articles/9-25-2024%20My%20Favorite%20Runways/5.png" alt="Runway 5" class="gallery-image">
+                <img src="articles/9-25-2024%20My%20Favorite%20Runways/6.png" alt="Runway 6" class="gallery-image">
+                <img src="articles/9-25-2024%20My%20Favorite%20Runways/7.png" alt="Runway 7" class="gallery-image">
+                <img src="articles/9-25-2024%20My%20Favorite%20Runways/8.png" alt="Runway 8" class="gallery-image">
+                <img src="articles/9-25-2024%20My%20Favorite%20Runways/9.png" alt="Runway 9" class="gallery-image">
+                <img src="articles/9-25-2024%20My%20Favorite%20Runways/10.png" alt="Runway 10" class="gallery-image">
             </div>
             
             <p>These runways represent the pinnacle of fashion creativity - moments where design, artistry, and vision come together to create something truly unforgettable.</p>
         `,
-        image: "articles/9-25-2024 My Favorite Runways/1.png",
+        image: "articles/9-25-2024%20My%20Favorite%20Runways/1.png",
         category: "Runways",
         date: "2024-09-25"
     },
@@ -118,17 +118,17 @@ const blogPosts = [
             <p>The best costume designers know that clothing is character development. These shows understand that fashion isn't just about looking good - it's about storytelling through style.</p>
             
             <div class="image-gallery">
-                <img src="articles/9-23-2024 Chic Cinema TV Shows to Watch This Fall/1.png" alt="TV Show 1" class="gallery-image">
-                <img src="articles/9-23-2024 Chic Cinema TV Shows to Watch This Fall/2.png" alt="TV Show 2" class="gallery-image">
-                <img src="articles/9-23-2024 Chic Cinema TV Shows to Watch This Fall/3.png" alt="TV Show 3" class="gallery-image">
-                <img src="articles/9-23-2024 Chic Cinema TV Shows to Watch This Fall/4.png" alt="TV Show 4" class="gallery-image">
-                <img src="articles/9-23-2024 Chic Cinema TV Shows to Watch This Fall/5.png" alt="TV Show 5" class="gallery-image">
-                <img src="articles/9-23-2024 Chic Cinema TV Shows to Watch This Fall/6.png" alt="TV Show 6" class="gallery-image">
+                <img src="articles/9-23-2024%20Chic%20Cinema%20TV%20Shows%20to%20Watch%20This%20Fall/1.png" alt="TV Show 1" class="gallery-image">
+                <img src="articles/9-23-2024%20Chic%20Cinema%20TV%20Shows%20to%20Watch%20This%20Fall/2.png" alt="TV Show 2" class="gallery-image">
+                <img src="articles/9-23-2024%20Chic%20Cinema%20TV%20Shows%20to%20Watch%20This%20Fall/3.png" alt="TV Show 3" class="gallery-image">
+                <img src="articles/9-23-2024%20Chic%20Cinema%20TV%20Shows%20to%20Watch%20This%20Fall/4.png" alt="TV Show 4" class="gallery-image">
+                <img src="articles/9-23-2024%20Chic%20Cinema%20TV%20Shows%20to%20Watch%20This%20Fall/5.png" alt="TV Show 5" class="gallery-image">
+                <img src="articles/9-23-2024%20Chic%20Cinema%20TV%20Shows%20to%20Watch%20This%20Fall/6.png" alt="TV Show 6" class="gallery-image">
             </div>
             
             <p>These shows remind us that fashion is everywhere - not just on runways and red carpets, but in the stories we tell and the characters we love.</p>
         `,
-        image: "articles/9-23-2024 Chic Cinema TV Shows to Watch This Fall/1.png",
+        image: "articles/9-23-2024%20Chic%20Cinema%20TV%20Shows%20to%20Watch%20This%20Fall/1.png",
         category: "Cinema",
         date: "2024-09-23"
     },
@@ -143,17 +143,17 @@ const blogPosts = [
             <p>The best costumes aren't just about accuracy - they're about interpretation, creativity, and finding new ways to express personality through clothing and styling.</p>
             
             <div class="image-gallery">
-                <img src="articles/9-21-2024 Halloween Costumes/1.png" alt="Halloween Costume 1" class="gallery-image">
-                <img src="articles/9-21-2024 Halloween Costumes/2.png" alt="Halloween Costume 2" class="gallery-image">
-                <img src="articles/9-21-2024 Halloween Costumes/3.png" alt="Halloween Costume 3" class="gallery-image">
-                <img src="articles/9-21-2024 Halloween Costumes/4.png" alt="Halloween Costume 4" class="gallery-image">
-                <img src="articles/9-21-2024 Halloween Costumes/5.png" alt="Halloween Costume 5" class="gallery-image">
-                <img src="articles/9-21-2024 Halloween Costumes/6.png" alt="Halloween Costume 6" class="gallery-image">
+                <img src="articles/9-21-2024%20Halloween%20Costumes/1.png" alt="Halloween Costume 1" class="gallery-image">
+                <img src="articles/9-21-2024%20Halloween%20Costumes/2.png" alt="Halloween Costume 2" class="gallery-image">
+                <img src="articles/9-21-2024%20Halloween%20Costumes/3.png" alt="Halloween Costume 3" class="gallery-image">
+                <img src="articles/9-21-2024%20Halloween%20Costumes/4.png" alt="Halloween Costume 4" class="gallery-image">
+                <img src="articles/9-21-2024%20Halloween%20Costumes/5.png" alt="Halloween Costume 5" class="gallery-image">
+                <img src="articles/9-21-2024%20Halloween%20Costumes/6.png" alt="Halloween Costume 6" class="gallery-image">
             </div>
             
             <p>These costumes show us that fashion is play, fashion is art, and fashion is one of the most powerful tools we have for self-expression and transformation.</p>
         `,
-        image: "articles/9-21-2024 Halloween Costumes/1.png",
+        image: "articles/9-21-2024%20Halloween%20Costumes/1.png",
         category: "Costumes",
         date: "2024-09-21"
     },
@@ -168,19 +168,19 @@ const blogPosts = [
             <p>From structured totes to slouchy hobos, each bag shape tells a different story about the woman who carries it and the life she leads.</p>
             
             <div class="image-gallery">
-                <img src="articles/9-13-2024 My Favorite Bag Shapes/1.png" alt="Bag Shape 1" class="gallery-image">
-                <img src="articles/9-13-2024 My Favorite Bag Shapes/2.png" alt="Bag Shape 2" class="gallery-image">
-                <img src="articles/9-13-2024 My Favorite Bag Shapes/3.png" alt="Bag Shape 3" class="gallery-image">
-                <img src="articles/9-13-2024 My Favorite Bag Shapes/4.png" alt="Bag Shape 4" class="gallery-image">
-                <img src="articles/9-13-2024 My Favorite Bag Shapes/5.png" alt="Bag Shape 5" class="gallery-image">
-                <img src="articles/9-13-2024 My Favorite Bag Shapes/6.png" alt="Bag Shape 6" class="gallery-image">
-                <img src="articles/9-13-2024 My Favorite Bag Shapes/7.png" alt="Bag Shape 7" class="gallery-image">
-                <img src="articles/9-13-2024 My Favorite Bag Shapes/8.png" alt="Bag Shape 8" class="gallery-image">
+                <img src="articles/9-13-2024%20My%20Favorite%20Bag%20Shapes/1.png" alt="Bag Shape 1" class="gallery-image">
+                <img src="articles/9-13-2024%20My%20Favorite%20Bag%20Shapes/2.png" alt="Bag Shape 2" class="gallery-image">
+                <img src="articles/9-13-2024%20My%20Favorite%20Bag%20Shapes/3.png" alt="Bag Shape 3" class="gallery-image">
+                <img src="articles/9-13-2024%20My%20Favorite%20Bag%20Shapes/4.png" alt="Bag Shape 4" class="gallery-image">
+                <img src="articles/9-13-2024%20My%20Favorite%20Bag%20Shapes/5.png" alt="Bag Shape 5" class="gallery-image">
+                <img src="articles/9-13-2024%20My%20Favorite%20Bag%20Shapes/6.png" alt="Bag Shape 6" class="gallery-image">
+                <img src="articles/9-13-2024%20My%20Favorite%20Bag%20Shapes/7.png" alt="Bag Shape 7" class="gallery-image">
+                <img src="articles/9-13-2024%20My%20Favorite%20Bag%20Shapes/8.png" alt="Bag Shape 8" class="gallery-image">
             </div>
             
             <p>These bag shapes represent the evolution of design, the intersection of function and beauty, and the endless possibilities of accessory architecture.</p>
         `,
-        image: "articles/9-13-2024 My Favorite Bag Shapes/1.png",
+        image: "articles/9-13-2024%20My%20Favorite%20Bag%20Shapes/1.png",
         category: "Accessories",
         date: "2024-09-13"
     },
@@ -195,18 +195,18 @@ const blogPosts = [
             <p>The best films understand that costume design is character development. These movies use fashion to tell stories, create atmospheres, and transport us to different worlds.</p>
             
             <div class="image-gallery">
-                <img src="articles/9-13-2024 Chic Cinema Fall Movie Recs/1.png" alt="Movie 1" class="gallery-image">
-                <img src="articles/9-13-2024 Chic Cinema Fall Movie Recs/2.png" alt="Movie 2" class="gallery-image">
-                <img src="articles/9-13-2024 Chic Cinema Fall Movie Recs/3.png" alt="Movie 3" class="gallery-image">
-                <img src="articles/9-13-2024 Chic Cinema Fall Movie Recs/4.png" alt="Movie 4" class="gallery-image">
-                <img src="articles/9-13-2024 Chic Cinema Fall Movie Recs/5.png" alt="Movie 5" class="gallery-image">
-                <img src="articles/9-13-2024 Chic Cinema Fall Movie Recs/6.png" alt="Movie 6" class="gallery-image">
-                <img src="articles/9-13-2024 Chic Cinema Fall Movie Recs/7.png" alt="Movie 7" class="gallery-image">
+                <img src="articles/9-13-2024%20Chic%20Cinema%20Fall%20Movie%20Recs/1.png" alt="Movie 1" class="gallery-image">
+                <img src="articles/9-13-2024%20Chic%20Cinema%20Fall%20Movie%20Recs/2.png" alt="Movie 2" class="gallery-image">
+                <img src="articles/9-13-2024%20Chic%20Cinema%20Fall%20Movie%20Recs/3.png" alt="Movie 3" class="gallery-image">
+                <img src="articles/9-13-2024%20Chic%20Cinema%20Fall%20Movie%20Recs/4.png" alt="Movie 4" class="gallery-image">
+                <img src="articles/9-13-2024%20Chic%20Cinema%20Fall%20Movie%20Recs/5.png" alt="Movie 5" class="gallery-image">
+                <img src="articles/9-13-2024%20Chic%20Cinema%20Fall%20Movie%20Recs/6.png" alt="Movie 6" class="gallery-image">
+                <img src="articles/9-13-2024%20Chic%20Cinema%20Fall%20Movie%20Recs/7.png" alt="Movie 7" class="gallery-image">
             </div>
             
             <p>These films prove that great style transcends time and place - it's about creating memorable, meaningful moments that stay with us long after the credits roll.</p>
         `,
-        image: "articles/9-13-2024 Chic Cinema Fall Movie Recs/1.png",
+        image: "articles/9-13-2024%20Chic%20Cinema%20Fall%20Movie%20Recs/1.png",
         category: "Cinema",
         date: "2024-09-13"
     },
@@ -221,18 +221,18 @@ const blogPosts = [
             <p>True sexiness in fashion comes from confidence, quality, and the knowledge that you look and feel amazing. It's about the cut of a garment, the way fabric moves, and the attitude you bring to every look.</p>
             
             <div class="image-gallery">
-                <img src="articles/9-11-2024 SexyThings Pt.4/1.png" alt="Sexy Style 1" class="gallery-image">
-                <img src="articles/9-11-2024 SexyThings Pt.4/2.png" alt="Sexy Style 2" class="gallery-image">
-                <img src="articles/9-11-2024 SexyThings Pt.4/3.png" alt="Sexy Style 3" class="gallery-image">
-                <img src="articles/9-11-2024 SexyThings Pt.4/4.png" alt="Sexy Style 4" class="gallery-image">
-                <img src="articles/9-11-2024 SexyThings Pt.4/5.png" alt="Sexy Style 5" class="gallery-image">
-                <img src="articles/9-11-2024 SexyThings Pt.4/6.png" alt="Sexy Style 6" class="gallery-image">
-                <img src="articles/9-11-2024 SexyThings Pt.4/7.png" alt="Sexy Style 7" class="gallery-image">
+                <img src="articles/9-11-2024%20SexyThings%20Pt.4/1.png" alt="Sexy Style 1" class="gallery-image">
+                <img src="articles/9-11-2024%20SexyThings%20Pt.4/2.png" alt="Sexy Style 2" class="gallery-image">
+                <img src="articles/9-11-2024%20SexyThings%20Pt.4/3.png" alt="Sexy Style 3" class="gallery-image">
+                <img src="articles/9-11-2024%20SexyThings%20Pt.4/4.png" alt="Sexy Style 4" class="gallery-image">
+                <img src="articles/9-11-2024%20SexyThings%20Pt.4/5.png" alt="Sexy Style 5" class="gallery-image">
+                <img src="articles/9-11-2024%20SexyThings%20Pt.4/6.png" alt="Sexy Style 6" class="gallery-image">
+                <img src="articles/9-11-2024%20SexyThings%20Pt.4/7.png" alt="Sexy Style 7" class="gallery-image">
             </div>
             
             <p>These looks remind us that the most captivating fashion moments come from owning your style, understanding your body, and wearing clothes that make you feel powerful and beautiful.</p>
         `,
-        image: "articles/9-11-2024 SexyThings Pt.4/1.png",
+        image: "articles/9-11-2024%20SexyThings%20Pt.4/1.png",
         category: "Style",
         date: "2024-09-11"
     },
@@ -247,23 +247,23 @@ const blogPosts = [
             <p>Every fashion lover has those key pieces, moments, and inspirations that define their aesthetic. This collection represents the elements that have most influenced my approach to style and beauty.</p>
             
             <div class="image-gallery">
-                <img src="articles/9-10-2024 Fashion Quiz My Favorites Edition/1.png" alt="Fashion Quiz 1" class="gallery-image">
-                <img src="articles/9-10-2024 Fashion Quiz My Favorites Edition/2.png" alt="Fashion Quiz 2" class="gallery-image">
-                <img src="articles/9-10-2024 Fashion Quiz My Favorites Edition/3.png" alt="Fashion Quiz 3" class="gallery-image">
-                <img src="articles/9-10-2024 Fashion Quiz My Favorites Edition/4.png" alt="Fashion Quiz 4" class="gallery-image">
-                <img src="articles/9-10-2024 Fashion Quiz My Favorites Edition/5.png" alt="Fashion Quiz 5" class="gallery-image">
-                <img src="articles/9-10-2024 Fashion Quiz My Favorites Edition/6.png" alt="Fashion Quiz 6" class="gallery-image">
-                <img src="articles/9-10-2024 Fashion Quiz My Favorites Edition/7.png" alt="Fashion Quiz 7" class="gallery-image">
-                <img src="articles/9-10-2024 Fashion Quiz My Favorites Edition/8.png" alt="Fashion Quiz 8" class="gallery-image">
-                <img src="articles/9-10-2024 Fashion Quiz My Favorites Edition/9.png" alt="Fashion Quiz 9" class="gallery-image">
-                <img src="articles/9-10-2024 Fashion Quiz My Favorites Edition/10.png" alt="Fashion Quiz 10" class="gallery-image">
-                <img src="articles/9-10-2024 Fashion Quiz My Favorites Edition/11.png" alt="Fashion Quiz 11" class="gallery-image">
-                <img src="articles/9-10-2024 Fashion Quiz My Favorites Edition/12.png" alt="Fashion Quiz 12" class="gallery-image">
+                <img src="articles/9-10-2024%20Fashion%20Quiz%20My%20Favorites%20Edition/1.png" alt="Fashion Quiz 1" class="gallery-image">
+                <img src="articles/9-10-2024%20Fashion%20Quiz%20My%20Favorites%20Edition/2.png" alt="Fashion Quiz 2" class="gallery-image">
+                <img src="articles/9-10-2024%20Fashion%20Quiz%20My%20Favorites%20Edition/3.png" alt="Fashion Quiz 3" class="gallery-image">
+                <img src="articles/9-10-2024%20Fashion%20Quiz%20My%20Favorites%20Edition/4.png" alt="Fashion Quiz 4" class="gallery-image">
+                <img src="articles/9-10-2024%20Fashion%20Quiz%20My%20Favorites%20Edition/5.png" alt="Fashion Quiz 5" class="gallery-image">
+                <img src="articles/9-10-2024%20Fashion%20Quiz%20My%20Favorites%20Edition/6.png" alt="Fashion Quiz 6" class="gallery-image">
+                <img src="articles/9-10-2024%20Fashion%20Quiz%20My%20Favorites%20Edition/7.png" alt="Fashion Quiz 7" class="gallery-image">
+                <img src="articles/9-10-2024%20Fashion%20Quiz%20My%20Favorites%20Edition/8.png" alt="Fashion Quiz 8" class="gallery-image">
+                <img src="articles/9-10-2024%20Fashion%20Quiz%20My%20Favorites%20Edition/9.png" alt="Fashion Quiz 9" class="gallery-image">
+                <img src="articles/9-10-2024%20Fashion%20Quiz%20My%20Favorites%20Edition/10.png" alt="Fashion Quiz 10" class="gallery-image">
+                <img src="articles/9-10-2024%20Fashion%20Quiz%20My%20Favorites%20Edition/11.png" alt="Fashion Quiz 11" class="gallery-image">
+                <img src="articles/9-10-2024%20Fashion%20Quiz%20My%20Favorites%20Edition/12.png" alt="Fashion Quiz 12" class="gallery-image">
             </div>
             
             <p>These choices reflect not just personal taste, but the journey of developing a unique fashion voice in a world full of endless possibilities and inspirations.</p>
         `,
-        image: "articles/9-10-2024 Fashion Quiz My Favorites Edition/1.png",
+        image: "articles/9-10-2024%20Fashion%20Quiz%20My%20Favorites%20Edition/1.png",
         category: "Personal",
         date: "2024-09-10"
     },
@@ -278,18 +278,18 @@ const blogPosts = [
             <p>Every fabric tells a story - of craftsmanship, tradition, innovation, and the endless possibilities of what clothing can be. Understanding fabric is understanding the soul of fashion.</p>
             
             <div class="image-gallery">
-                <img src="articles/9-8-2024 My Favorite Fabrics/1.png" alt="Fabric 1" class="gallery-image">
-                <img src="articles/9-8-2024 My Favorite Fabrics/2.png" alt="Fabric 2" class="gallery-image">
-                <img src="articles/9-8-2024 My Favorite Fabrics/3.png" alt="Fabric 3" class="gallery-image">
-                <img src="articles/9-8-2024 My Favorite Fabrics/4.png" alt="Fabric 4" class="gallery-image">
-                <img src="articles/9-8-2024 My Favorite Fabrics/5.png" alt="Fabric 5" class="gallery-image">
-                <img src="articles/9-8-2024 My Favorite Fabrics/6.png" alt="Fabric 6" class="gallery-image">
-                <img src="articles/9-8-2024 My Favorite Fabrics/7.png" alt="Fabric 7" class="gallery-image">
+                <img src="articles/9-8-2024%20My%20Favorite%20Fabrics/1.png" alt="Fabric 1" class="gallery-image">
+                <img src="articles/9-8-2024%20My%20Favorite%20Fabrics/2.png" alt="Fabric 2" class="gallery-image">
+                <img src="articles/9-8-2024%20My%20Favorite%20Fabrics/3.png" alt="Fabric 3" class="gallery-image">
+                <img src="articles/9-8-2024%20My%20Favorite%20Fabrics/4.png" alt="Fabric 4" class="gallery-image">
+                <img src="articles/9-8-2024%20My%20Favorite%20Fabrics/5.png" alt="Fabric 5" class="gallery-image">
+                <img src="articles/9-8-2024%20My%20Favorite%20Fabrics/6.png" alt="Fabric 6" class="gallery-image">
+                <img src="articles/9-8-2024%20My%20Favorite%20Fabrics/7.png" alt="Fabric 7" class="gallery-image">
             </div>
             
             <p>These fabrics represent the tactile pleasure of fashion - the way great clothing feels against the skin, moves with the body, and creates the perfect foundation for personal style.</p>
         `,
-        image: "articles/9-8-2024 My Favorite Fabrics/1.png",
+        image: "articles/9-8-2024%20My%20Favorite%20Fabrics/1.png",
         category: "Fabrics",
         date: "2024-09-08"
     },
@@ -304,23 +304,23 @@ const blogPosts = [
             <p>Understanding fashion history, recognizing great design, and appreciating the nuances of style are skills that enhance how we see and interact with the world around us.</p>
             
             <div class="image-gallery">
-                <img src="articles/9-5-2024 Fashion Quiz/1.png" alt="Fashion Quiz 1" class="gallery-image">
-                <img src="articles/9-5-2024 Fashion Quiz/2.png" alt="Fashion Quiz 2" class="gallery-image">
-                <img src="articles/9-5-2024 Fashion Quiz/3.png" alt="Fashion Quiz 3" class="gallery-image">
-                <img src="articles/9-5-2024 Fashion Quiz/4.png" alt="Fashion Quiz 4" class="gallery-image">
-                <img src="articles/9-5-2024 Fashion Quiz/5.png" alt="Fashion Quiz 5" class="gallery-image">
-                <img src="articles/9-5-2024 Fashion Quiz/6.png" alt="Fashion Quiz 6" class="gallery-image">
-                <img src="articles/9-5-2024 Fashion Quiz/7.png" alt="Fashion Quiz 7" class="gallery-image">
-                <img src="articles/9-5-2024 Fashion Quiz/8.png" alt="Fashion Quiz 8" class="gallery-image">
-                <img src="articles/9-5-2024 Fashion Quiz/9.png" alt="Fashion Quiz 9" class="gallery-image">
-                <img src="articles/9-5-2024 Fashion Quiz/10.png" alt="Fashion Quiz 10" class="gallery-image">
-                <img src="articles/9-5-2024 Fashion Quiz/11.png" alt="Fashion Quiz 11" class="gallery-image">
-                <img src="articles/9-5-2024 Fashion Quiz/12.png" alt="Fashion Quiz 12" class="gallery-image">
+                <img src="articles/9-5-2024%20Fashion%20Quiz/1.png" alt="Fashion Quiz 1" class="gallery-image">
+                <img src="articles/9-5-2024%20Fashion%20Quiz/2.png" alt="Fashion Quiz 2" class="gallery-image">
+                <img src="articles/9-5-2024%20Fashion%20Quiz/3.png" alt="Fashion Quiz 3" class="gallery-image">
+                <img src="articles/9-5-2024%20Fashion%20Quiz/4.png" alt="Fashion Quiz 4" class="gallery-image">
+                <img src="articles/9-5-2024%20Fashion%20Quiz/5.png" alt="Fashion Quiz 5" class="gallery-image">
+                <img src="articles/9-5-2024%20Fashion%20Quiz/6.png" alt="Fashion Quiz 6" class="gallery-image">
+                <img src="articles/9-5-2024%20Fashion%20Quiz/7.png" alt="Fashion Quiz 7" class="gallery-image">
+                <img src="articles/9-5-2024%20Fashion%20Quiz/8.png" alt="Fashion Quiz 8" class="gallery-image">
+                <img src="articles/9-5-2024%20Fashion%20Quiz/9.png" alt="Fashion Quiz 9" class="gallery-image">
+                <img src="articles/9-5-2024%20Fashion%20Quiz/10.png" alt="Fashion Quiz 10" class="gallery-image">
+                <img src="articles/9-5-2024%20Fashion%20Quiz/11.png" alt="Fashion Quiz 11" class="gallery-image">
+                <img src="articles/9-5-2024%20Fashion%20Quiz/12.png" alt="Fashion Quiz 12" class="gallery-image">
             </div>
             
             <p>These questions and visuals celebrate the depth and breadth of fashion knowledge, encouraging us to look deeper and appreciate the artistry in every detail.</p>
         `,
-        image: "articles/9-5-2024 Fashion Quiz/1.png",
+        image: "articles/9-5-2024%20Fashion%20Quiz/1.png",
         category: "Quiz",
         date: "2024-09-05"
     },
@@ -335,18 +335,18 @@ const blogPosts = [
             <p>The best costumes tell a story, and these looks weave together elements of romance, mystery, and playfulness to create Halloween magic that feels both festive and sophisticated.</p>
             
             <div class="image-gallery">
-                <img src="articles/9-3-2024 For Love and Lemons Halloween Costumes/1.png" alt="Halloween Costume 1" class="gallery-image">
-                <img src="articles/9-3-2024 For Love and Lemons Halloween Costumes/2.png" alt="Halloween Costume 2" class="gallery-image">
-                <img src="articles/9-3-2024 For Love and Lemons Halloween Costumes/3.png" alt="Halloween Costume 3" class="gallery-image">
-                <img src="articles/9-3-2024 For Love and Lemons Halloween Costumes/4.png" alt="Halloween Costume 4" class="gallery-image">
-                <img src="articles/9-3-2024 For Love and Lemons Halloween Costumes/5.png" alt="Halloween Costume 5" class="gallery-image">
-                <img src="articles/9-3-2024 For Love and Lemons Halloween Costumes/6.png" alt="Halloween Costume 6" class="gallery-image">
-                <img src="articles/9-3-2024 For Love and Lemons Halloween Costumes/7.png" alt="Halloween Costume 7" class="gallery-image">
+                <img src="articles/9-3-2024%20For%20Love%20and%20Lemons%20Halloween%20Costumes/1.png" alt="Halloween Costume 1" class="gallery-image">
+                <img src="articles/9-3-2024%20For%20Love%20and%20Lemons%20Halloween%20Costumes/2.png" alt="Halloween Costume 2" class="gallery-image">
+                <img src="articles/9-3-2024%20For%20Love%20and%20Lemons%20Halloween%20Costumes/3.png" alt="Halloween Costume 3" class="gallery-image">
+                <img src="articles/9-3-2024%20For%20Love%20and%20Lemons%20Halloween%20Costumes/4.png" alt="Halloween Costume 4" class="gallery-image">
+                <img src="articles/9-3-2024%20For%20Love%20and%20Lemons%20Halloween%20Costumes/5.png" alt="Halloween Costume 5" class="gallery-image">
+                <img src="articles/9-3-2024%20For%20Love%20and%20Lemons%20Halloween%20Costumes/6.png" alt="Halloween Costume 6" class="gallery-image">
+                <img src="articles/9-3-2024%20For%20Love%20and%20Lemons%20Halloween%20Costumes/7.png" alt="Halloween Costume 7" class="gallery-image">
             </div>
             
             <p>These costumes prove that Halloween fashion can be both creative and beautiful, offering a fresh perspective on seasonal dressing that celebrates both style and celebration.</p>
         `,
-        image: "articles/9-3-2024 For Love and Lemons Halloween Costumes/1.png",
+        image: "articles/9-3-2024%20For%20Love%20and%20Lemons%20Halloween%20Costumes/1.png",
         category: "Costumes",
         date: "2024-09-03"
     },
@@ -361,18 +361,18 @@ const blogPosts = [
             <p>Every symbol tells a story, carries history, and communicates something beyond words. In fashion, these symbols become part of our personal narrative, expressing our values, beliefs, and aspirations.</p>
             
             <div class="image-gallery">
-                <img src="articles/9-2-2024 MyFavoriteSymbols/1.png" alt="Symbol 1" class="gallery-image">
-                <img src="articles/9-2-2024 MyFavoriteSymbols/2.png" alt="Symbol 2" class="gallery-image">
-                <img src="articles/9-2-2024 MyFavoriteSymbols/3.png" alt="Symbol 3" class="gallery-image">
-                <img src="articles/9-2-2024 MyFavoriteSymbols/4.png" alt="Symbol 4" class="gallery-image">
-                <img src="articles/9-2-2024 MyFavoriteSymbols/5.png" alt="Symbol 5" class="gallery-image">
-                <img src="articles/9-2-2024 MyFavoriteSymbols/6.png" alt="Symbol 6" class="gallery-image">
-                <img src="articles/9-2-2024 MyFavoriteSymbols/7.png" alt="Symbol 7" class="gallery-image">
+                <img src="articles/9-2-2024%20MyFavoriteSymbols/1.png" alt="Symbol 1" class="gallery-image">
+                <img src="articles/9-2-2024%20MyFavoriteSymbols/2.png" alt="Symbol 2" class="gallery-image">
+                <img src="articles/9-2-2024%20MyFavoriteSymbols/3.png" alt="Symbol 3" class="gallery-image">
+                <img src="articles/9-2-2024%20MyFavoriteSymbols/4.png" alt="Symbol 4" class="gallery-image">
+                <img src="articles/9-2-2024%20MyFavoriteSymbols/5.png" alt="Symbol 5" class="gallery-image">
+                <img src="articles/9-2-2024%20MyFavoriteSymbols/6.png" alt="Symbol 6" class="gallery-image">
+                <img src="articles/9-2-2024%20MyFavoriteSymbols/7.png" alt="Symbol 7" class="gallery-image">
             </div>
             
             <p>These symbols remind us that fashion is a form of communication, allowing us to express complex ideas and emotions through the visual language of clothing and accessories.</p>
         `,
-        image: "articles/9-2-2024 MyFavoriteSymbols/1.png",
+        image: "articles/9-2-2024%20MyFavoriteSymbols/1.png",
         category: "Symbols",
         date: "2024-09-02"
     },
@@ -387,17 +387,17 @@ const blogPosts = [
             <p>Pisces style is about embracing fluidity, both in silhouette and in spirit. It's fashion that moves like water, feels like a dream, and connects us to something deeper than the surface.</p>
             
             <div class="image-gallery">
-                <img src="articles/8-25-2024 Pisces Sun The Mood Board/1.png" alt="Pisces Mood 1" class="gallery-image">
-                <img src="articles/8-25-2024 Pisces Sun The Mood Board/2.png" alt="Pisces Mood 2" class="gallery-image">
-                <img src="articles/8-25-2024 Pisces Sun The Mood Board/3.png" alt="Pisces Mood 3" class="gallery-image">
-                <img src="articles/8-25-2024 Pisces Sun The Mood Board/4.png" alt="Pisces Mood 4" class="gallery-image">
-                <img src="articles/8-25-2024 Pisces Sun The Mood Board/5.png" alt="Pisces Mood 5" class="gallery-image">
-                <img src="articles/8-25-2024 Pisces Sun The Mood Board/6.png" alt="Pisces Mood 6" class="gallery-image">
+                <img src="articles/8-25-2024%20Pisces%20Sun%20The%20Mood%20Board/1.png" alt="Pisces Mood 1" class="gallery-image">
+                <img src="articles/8-25-2024%20Pisces%20Sun%20The%20Mood%20Board/2.png" alt="Pisces Mood 2" class="gallery-image">
+                <img src="articles/8-25-2024%20Pisces%20Sun%20The%20Mood%20Board/3.png" alt="Pisces Mood 3" class="gallery-image">
+                <img src="articles/8-25-2024%20Pisces%20Sun%20The%20Mood%20Board/4.png" alt="Pisces Mood 4" class="gallery-image">
+                <img src="articles/8-25-2024%20Pisces%20Sun%20The%20Mood%20Board/5.png" alt="Pisces Mood 5" class="gallery-image">
+                <img src="articles/8-25-2024%20Pisces%20Sun%20The%20Mood%20Board/6.png" alt="Pisces Mood 6" class="gallery-image">
             </div>
             
             <p>This aesthetic celebrates the Pisces ability to transform everyday moments into something magical, using fashion as a tool for emotional expression and creative exploration.</p>
         `,
-        image: "articles/8-25-2024 Pisces Sun The Mood Board/1.png",
+        image: "articles/8-25-2024%20Pisces%20Sun%20The%20Mood%20Board/1.png",
         category: "Astrology",
         date: "2024-08-25"
     },
@@ -412,17 +412,17 @@ const blogPosts = [
             <p>Capricorn rising style is about quality over quantity, investment pieces over trends, and creating a wardrobe that reflects both ambition and timeless elegance.</p>
             
             <div class="image-gallery">
-                <img src="articles/8-21-2024 Capricorn Rising The Mood Board/1.png" alt="Capricorn Rising 1" class="gallery-image">
-                <img src="articles/8-21-2024 Capricorn Rising The Mood Board/2.png" alt="Capricorn Rising 2" class="gallery-image">
-                <img src="articles/8-21-2024 Capricorn Rising The Mood Board/3.png" alt="Capricorn Rising 3" class="gallery-image">
-                <img src="articles/8-21-2024 Capricorn Rising The Mood Board/4.png" alt="Capricorn Rising 4" class="gallery-image">
-                <img src="articles/8-21-2024 Capricorn Rising The Mood Board/5.png" alt="Capricorn Rising 5" class="gallery-image">
-                <img src="articles/8-21-2024 Capricorn Rising The Mood Board/6.png" alt="Capricorn Rising 6" class="gallery-image">
+                <img src="articles/8-21-2024%20Capricorn%20Rising%20The%20Mood%20Board/1.png" alt="Capricorn Rising 1" class="gallery-image">
+                <img src="articles/8-21-2024%20Capricorn%20Rising%20The%20Mood%20Board/2.png" alt="Capricorn Rising 2" class="gallery-image">
+                <img src="articles/8-21-2024%20Capricorn%20Rising%20The%20Mood%20Board/3.png" alt="Capricorn Rising 3" class="gallery-image">
+                <img src="articles/8-21-2024%20Capricorn%20Rising%20The%20Mood%20Board/4.png" alt="Capricorn Rising 4" class="gallery-image">
+                <img src="articles/8-21-2024%20Capricorn%20Rising%20The%20Mood%20Board/5.png" alt="Capricorn Rising 5" class="gallery-image">
+                <img src="articles/8-21-2024%20Capricorn%20Rising%20The%20Mood%20Board/6.png" alt="Capricorn Rising 6" class="gallery-image">
             </div>
             
             <p>This aesthetic celebrates the Capricorn rising's ability to climb any mountain while looking effortlessly put-together, using fashion as a tool for professional success and personal confidence.</p>
         `,
-        image: "articles/8-21-2024 Capricorn Rising The Mood Board/1.png",
+        image: "articles/8-21-2024%20Capricorn%20Rising%20The%20Mood%20Board/1.png",
         category: "Astrology",
         date: "2024-08-21"
     },
@@ -437,17 +437,17 @@ const blogPosts = [
             <p>Cancer rising style is about creating a sense of home wherever you go, choosing pieces that feel like a warm embrace and reflect your caring, intuitive nature.</p>
             
             <div class="image-gallery">
-                <img src="articles/8-18-2024 Cancer  Rising The Mood Board/1.png" alt="Cancer Rising 1" class="gallery-image">
-                <img src="articles/8-18-2024 Cancer  Rising The Mood Board/2.png" alt="Cancer Rising 2" class="gallery-image">
-                <img src="articles/8-18-2024 Cancer  Rising The Mood Board/3.png" alt="Cancer Rising 3" class="gallery-image">
-                <img src="articles/8-18-2024 Cancer  Rising The Mood Board/4.png" alt="Cancer Rising 4" class="gallery-image">
-                <img src="articles/8-18-2024 Cancer  Rising The Mood Board/5.png" alt="Cancer Rising 5" class="gallery-image">
-                <img src="articles/8-18-2024 Cancer  Rising The Mood Board/6.png" alt="Cancer Rising 6" class="gallery-image">
+                <img src="articles/8-18-2024%20Cancer%20%20Rising%20The%20Mood%20Board/1.png" alt="Cancer Rising 1" class="gallery-image">
+                <img src="articles/8-18-2024%20Cancer%20%20Rising%20The%20Mood%20Board/2.png" alt="Cancer Rising 2" class="gallery-image">
+                <img src="articles/8-18-2024%20Cancer%20%20Rising%20The%20Mood%20Board/3.png" alt="Cancer Rising 3" class="gallery-image">
+                <img src="articles/8-18-2024%20Cancer%20%20Rising%20The%20Mood%20Board/4.png" alt="Cancer Rising 4" class="gallery-image">
+                <img src="articles/8-18-2024%20Cancer%20%20Rising%20The%20Mood%20Board/5.png" alt="Cancer Rising 5" class="gallery-image">
+                <img src="articles/8-18-2024%20Cancer%20%20Rising%20The%20Mood%20Board/6.png" alt="Cancer Rising 6" class="gallery-image">
             </div>
             
             <p>This aesthetic celebrates the Cancer rising's ability to make everyone feel welcome and cared for, using fashion as a way to express love and create emotional connections.</p>
         `,
-        image: "articles/8-18-2024 Cancer  Rising The Mood Board/1.png",
+        image: "articles/8-18-2024%20Cancer%20%20Rising%20The%20Mood%20Board/1.png",
         category: "Astrology",
         date: "2024-08-18"
     },
@@ -462,17 +462,17 @@ const blogPosts = [
             <p>The key to outdoor style is finding the balance between looking put-together and being prepared for anything. These activities prove that adventure and elegance can coexist beautifully.</p>
             
             <div class="image-gallery">
-                <img src="articles/8-16-2024 What To Do When Bored Outside /1.png" alt="Outdoor Activity 1" class="gallery-image">
-                <img src="articles/8-16-2024 What To Do When Bored Outside /2.png" alt="Outdoor Activity 2" class="gallery-image">
-                <img src="articles/8-16-2024 What To Do When Bored Outside /3.png" alt="Outdoor Activity 3" class="gallery-image">
-                <img src="articles/8-16-2024 What To Do When Bored Outside /4.png" alt="Outdoor Activity 4" class="gallery-image">
-                <img src="articles/8-16-2024 What To Do When Bored Outside /5.png" alt="Outdoor Activity 5" class="gallery-image">
-                <img src="articles/8-16-2024 What To Do When Bored Outside /6.png" alt="Outdoor Activity 6" class="gallery-image">
+                <img src="articles/8-16-2024%20What%20To%20Do%20When%20Bored%20Outside%20/1.png" alt="Outdoor Activity 1" class="gallery-image">
+                <img src="articles/8-16-2024%20What%20To%20Do%20When%20Bored%20Outside%20/2.png" alt="Outdoor Activity 2" class="gallery-image">
+                <img src="articles/8-16-2024%20What%20To%20Do%20When%20Bored%20Outside%20/3.png" alt="Outdoor Activity 3" class="gallery-image">
+                <img src="articles/8-16-2024%20What%20To%20Do%20When%20Bored%20Outside%20/4.png" alt="Outdoor Activity 4" class="gallery-image">
+                <img src="articles/8-16-2024%20What%20To%20Do%20When%20Bored%20Outside%20/5.png" alt="Outdoor Activity 5" class="gallery-image">
+                <img src="articles/8-16-2024%20What%20To%20Do%20When%20Bored%20Outside%20/6.png" alt="Outdoor Activity 6" class="gallery-image">
             </div>
             
             <p>These activities remind us that the best fashion moments often happen when we're living fully, embracing spontaneity, and allowing our style to be part of our adventures.</p>
         `,
-        image: "articles/8-16-2024 What To Do When Bored Outside /1.png",
+        image: "articles/8-16-2024%20What%20To%20Do%20When%20Bored%20Outside%20/1.png",
         category: "Lifestyle",
         date: "2024-08-16"
     },
@@ -487,18 +487,18 @@ const blogPosts = [
             <p>The most captivating fashion moments come from confidence, quality, and the knowledge that you look and feel amazing. It's about the cut of a garment, the way fabric moves, and the attitude you bring to every look.</p>
             
             <div class="image-gallery">
-                <img src="articles/8-14-2024 SexyThings Pt.3/1.png" alt="Allure 1" class="gallery-image">
-                <img src="articles/8-14-2024 SexyThings Pt.3/2.png" alt="Allure 2" class="gallery-image">
-                <img src="articles/8-14-2024 SexyThings Pt.3/3.png" alt="Allure 3" class="gallery-image">
-                <img src="articles/8-14-2024 SexyThings Pt.3/4.png" alt="Allure 4" class="gallery-image">
-                <img src="articles/8-14-2024 SexyThings Pt.3/5.png" alt="Allure 5" class="gallery-image">
-                <img src="articles/8-14-2024 SexyThings Pt.3/6.png" alt="Allure 6" class="gallery-image">
-                <img src="articles/8-14-2024 SexyThings Pt.3/7.png" alt="Allure 7" class="gallery-image">
+                <img src="articles/8-14-2024%20SexyThings%20Pt.3/1.png" alt="Allure 1" class="gallery-image">
+                <img src="articles/8-14-2024%20SexyThings%20Pt.3/2.png" alt="Allure 2" class="gallery-image">
+                <img src="articles/8-14-2024%20SexyThings%20Pt.3/3.png" alt="Allure 3" class="gallery-image">
+                <img src="articles/8-14-2024%20SexyThings%20Pt.3/4.png" alt="Allure 4" class="gallery-image">
+                <img src="articles/8-14-2024%20SexyThings%20Pt.3/5.png" alt="Allure 5" class="gallery-image">
+                <img src="articles/8-14-2024%20SexyThings%20Pt.3/6.png" alt="Allure 6" class="gallery-image">
+                <img src="articles/8-14-2024%20SexyThings%20Pt.3/7.png" alt="Allure 7" class="gallery-image">
             </div>
             
             <p>These looks demonstrate that the most attractive fashion choices are those that enhance your natural beauty and make you feel powerful, confident, and authentically yourself.</p>
         `,
-        image: "articles/8-14-2024 SexyThings Pt.3/1.png",
+        image: "articles/8-14-2024%20SexyThings%20Pt.3/1.png",
         category: "Style",
         date: "2024-08-14"
     },
@@ -513,17 +513,17 @@ const blogPosts = [
             <p>Leo style is about embracing your inner star, choosing pieces that reflect your natural confidence and creativity. It's fashion that celebrates individuality and isn't afraid to take center stage.</p>
             
             <div class="image-gallery">
-                <img src="articles/8-8-2024 Leo Sun The Mood Board/1.png" alt="Leo Sun 1" class="gallery-image">
-                <img src="articles/8-8-2024 Leo Sun The Mood Board/2.png" alt="Leo Sun 2" class="gallery-image">
-                <img src="articles/8-8-2024 Leo Sun The Mood Board/3.png" alt="Leo Sun 3" class="gallery-image">
-                <img src="articles/8-8-2024 Leo Sun The Mood Board/4.png" alt="Leo Sun 4" class="gallery-image">
-                <img src="articles/8-8-2024 Leo Sun The Mood Board/5.png" alt="Leo Sun 5" class="gallery-image">
-                <img src="articles/8-8-2024 Leo Sun The Mood Board/6.png" alt="Leo Sun 6" class="gallery-image">
+                <img src="articles/8-8-2024%20Leo%20Sun%20The%20Mood%20Board/1.png" alt="Leo Sun 1" class="gallery-image">
+                <img src="articles/8-8-2024%20Leo%20Sun%20The%20Mood%20Board/2.png" alt="Leo Sun 2" class="gallery-image">
+                <img src="articles/8-8-2024%20Leo%20Sun%20The%20Mood%20Board/3.png" alt="Leo Sun 3" class="gallery-image">
+                <img src="articles/8-8-2024%20Leo%20Sun%20The%20Mood%20Board/4.png" alt="Leo Sun 4" class="gallery-image">
+                <img src="articles/8-8-2024%20Leo%20Sun%20The%20Mood%20Board/5.png" alt="Leo Sun 5" class="gallery-image">
+                <img src="articles/8-8-2024%20Leo%20Sun%20The%20Mood%20Board/6.png" alt="Leo Sun 6" class="gallery-image">
             </div>
             
             <p>This aesthetic celebrates the Leo sun's natural ability to inspire and lead, using fashion as a tool for creative expression and confident self-presentation.</p>
         `,
-        image: "articles/8-8-2024 Leo Sun The Mood Board/1.png",
+        image: "articles/8-8-2024%20Leo%20Sun%20The%20Mood%20Board/1.png",
         category: "Astrology",
         date: "2024-08-08"
     },
@@ -538,18 +538,18 @@ const blogPosts = [
             <p>Each floral scent tells a story, evokes a mood, and creates an invisible signature that becomes part of your personal style. These fragrances represent the perfect marriage of nature and artistry.</p>
             
             <div class="image-gallery">
-                <img src="articles/8-7-2024 MyFavoriteFloralScents/1.png" alt="Floral Scent 1" class="gallery-image">
-                <img src="articles/8-7-2024 MyFavoriteFloralScents/2.png" alt="Floral Scent 2" class="gallery-image">
-                <img src="articles/8-7-2024 MyFavoriteFloralScents/3.png" alt="Floral Scent 3" class="gallery-image">
-                <img src="articles/8-7-2024 MyFavoriteFloralScents/4.png" alt="Floral Scent 4" class="gallery-image">
-                <img src="articles/8-7-2024 MyFavoriteFloralScents/5.png" alt="Floral Scent 5" class="gallery-image">
-                <img src="articles/8-7-2024 MyFavoriteFloralScents/6.png" alt="Floral Scent 6" class="gallery-image">
-                <img src="articles/8-7-2024 MyFavoriteFloralScents/7.png" alt="Floral Scent 7" class="gallery-image">
+                <img src="articles/8-7-2024%20MyFavoriteFloralScents/1.png" alt="Floral Scent 1" class="gallery-image">
+                <img src="articles/8-7-2024%20MyFavoriteFloralScents/2.png" alt="Floral Scent 2" class="gallery-image">
+                <img src="articles/8-7-2024%20MyFavoriteFloralScents/3.png" alt="Floral Scent 3" class="gallery-image">
+                <img src="articles/8-7-2024%20MyFavoriteFloralScents/4.png" alt="Floral Scent 4" class="gallery-image">
+                <img src="articles/8-7-2024%20MyFavoriteFloralScents/5.png" alt="Floral Scent 5" class="gallery-image">
+                <img src="articles/8-7-2024%20MyFavoriteFloralScents/6.png" alt="Floral Scent 6" class="gallery-image">
+                <img src="articles/8-7-2024%20MyFavoriteFloralScents/7.png" alt="Floral Scent 7" class="gallery-image">
             </div>
             
             <p>These fragrances remind us that true style engages all the senses, creating memorable moments and emotional connections through the power of beautiful scent.</p>
         `,
-        image: "articles/8-7-2024 MyFavoriteFloralScents/1.png",
+        image: "articles/8-7-2024%20MyFavoriteFloralScents/1.png",
         category: "Fragrance",
         date: "2024-08-07"
     },
@@ -564,21 +564,21 @@ const blogPosts = [
             <p>The most attractive person in the room is the one who feels comfortable in their own skin. These looks celebrate the confidence that comes from dressing for yourself and embracing your personal power.</p>
             
             <div class="image-gallery">
-                <img src="articles/8-5-2024 Feeling Sexy Single A Guide/1.png" alt="Single Style 1" class="gallery-image">
-                <img src="articles/8-5-2024 Feeling Sexy Single A Guide/2.png" alt="Single Style 2" class="gallery-image">
-                <img src="articles/8-5-2024 Feeling Sexy Single A Guide/3.png" alt="Single Style 3" class="gallery-image">
-                <img src="articles/8-5-2024 Feeling Sexy Single A Guide/4.png" alt="Single Style 4" class="gallery-image">
-                <img src="articles/8-5-2024 Feeling Sexy Single A Guide/5.png" alt="Single Style 5" class="gallery-image">
-                <img src="articles/8-5-2024 Feeling Sexy Single A Guide/6.png" alt="Single Style 6" class="gallery-image">
-                <img src="articles/8-5-2024 Feeling Sexy Single A Guide/7.png" alt="Single Style 7" class="gallery-image">
-                <img src="articles/8-5-2024 Feeling Sexy Single A Guide/8.png" alt="Single Style 8" class="gallery-image">
-                <img src="articles/8-5-2024 Feeling Sexy Single A Guide/9.png" alt="Single Style 9" class="gallery-image">
-                <img src="articles/8-5-2024 Feeling Sexy Single A Guide/10.png" alt="Single Style 10" class="gallery-image">
+                <img src="articles/8-5-2024%20Feeling%20Sexy%20Single%20A%20Guide/1.png" alt="Single Style 1" class="gallery-image">
+                <img src="articles/8-5-2024%20Feeling%20Sexy%20Single%20A%20Guide/2.png" alt="Single Style 2" class="gallery-image">
+                <img src="articles/8-5-2024%20Feeling%20Sexy%20Single%20A%20Guide/3.png" alt="Single Style 3" class="gallery-image">
+                <img src="articles/8-5-2024%20Feeling%20Sexy%20Single%20A%20Guide/4.png" alt="Single Style 4" class="gallery-image">
+                <img src="articles/8-5-2024%20Feeling%20Sexy%20Single%20A%20Guide/5.png" alt="Single Style 5" class="gallery-image">
+                <img src="articles/8-5-2024%20Feeling%20Sexy%20Single%20A%20Guide/6.png" alt="Single Style 6" class="gallery-image">
+                <img src="articles/8-5-2024%20Feeling%20Sexy%20Single%20A%20Guide/7.png" alt="Single Style 7" class="gallery-image">
+                <img src="articles/8-5-2024%20Feeling%20Sexy%20Single%20A%20Guide/8.png" alt="Single Style 8" class="gallery-image">
+                <img src="articles/8-5-2024%20Feeling%20Sexy%20Single%20A%20Guide/9.png" alt="Single Style 9" class="gallery-image">
+                <img src="articles/8-5-2024%20Feeling%20Sexy%20Single%20A%20Guide/10.png" alt="Single Style 10" class="gallery-image">
             </div>
             
             <p>These looks remind us that the most beautiful thing you can wear is confidence in yourself, and that true style comes from embracing who you are and celebrating your independence.</p>
         `,
-        image: "articles/8-5-2024 Feeling Sexy Single A Guide/1.png",
+        image: "articles/8-5-2024%20Feeling%20Sexy%20Single%20A%20Guide/1.png",
         category: "Lifestyle",
         date: "2024-08-05"
     },
@@ -593,18 +593,18 @@ const blogPosts = [
             <p>Every pattern has a personality, a history, and a unique way of transforming the garments it adorns. Understanding patterns is understanding the visual poetry of fashion.</p>
             
             <div class="image-gallery">
-                <img src="articles/8-3-2024 MyFavoritePatterns/1.png" alt="Pattern 1" class="gallery-image">
-                <img src="articles/8-3-2024 MyFavoritePatterns/2.png" alt="Pattern 2" class="gallery-image">
-                <img src="articles/8-3-2024 MyFavoritePatterns/3.png" alt="Pattern 3" class="gallery-image">
-                <img src="articles/8-3-2024 MyFavoritePatterns/4.png" alt="Pattern 4" class="gallery-image">
-                <img src="articles/8-3-2024 MyFavoritePatterns/5.png" alt="Pattern 5" class="gallery-image">
-                <img src="articles/8-3-2024 MyFavoritePatterns/6.png" alt="Pattern 6" class="gallery-image">
-                <img src="articles/8-3-2024 MyFavoritePatterns/7.png" alt="Pattern 7" class="gallery-image">
+                <img src="articles/8-3-2024%20MyFavoritePatterns/1.png" alt="Pattern 1" class="gallery-image">
+                <img src="articles/8-3-2024%20MyFavoritePatterns/2.png" alt="Pattern 2" class="gallery-image">
+                <img src="articles/8-3-2024%20MyFavoritePatterns/3.png" alt="Pattern 3" class="gallery-image">
+                <img src="articles/8-3-2024%20MyFavoritePatterns/4.png" alt="Pattern 4" class="gallery-image">
+                <img src="articles/8-3-2024%20MyFavoritePatterns/5.png" alt="Pattern 5" class="gallery-image">
+                <img src="articles/8-3-2024%20MyFavoritePatterns/6.png" alt="Pattern 6" class="gallery-image">
+                <img src="articles/8-3-2024%20MyFavoritePatterns/7.png" alt="Pattern 7" class="gallery-image">
             </div>
             
             <p>These patterns represent the endless possibilities of fashion expression, showing how the right print can transform a simple piece into a statement and add personality to any wardrobe.</p>
         `,
-        image: "articles/8-3-2024 MyFavoritePatterns/1.png",
+        image: "articles/8-3-2024%20MyFavoritePatterns/1.png",
         category: "Patterns",
         date: "2024-08-03"
     },
@@ -619,19 +619,19 @@ const blogPosts = [
             <p>Your hair is your most versatile accessory - it can completely transform your look, reflect your personality, and serve as the foundation for every style choice you make.</p>
             
             <div class="image-gallery">
-                <img src="articles/7-29-2024 HairCare/1.png" alt="Hair Care 1" class="gallery-image">
-                <img src="articles/7-29-2024 HairCare/2.png" alt="Hair Care 2" class="gallery-image">
-                <img src="articles/7-29-2024 HairCare/3.png" alt="Hair Care 3" class="gallery-image">
-                <img src="articles/7-29-2024 HairCare/4.png" alt="Hair Care 4" class="gallery-image">
-                <img src="articles/7-29-2024 HairCare/5.png" alt="Hair Care 5" class="gallery-image">
-                <img src="articles/7-29-2024 HairCare/6.png" alt="Hair Care 6" class="gallery-image">
-                <img src="articles/7-29-2024 HairCare/7.png" alt="Hair Care 7" class="gallery-image">
-                <img src="articles/7-29-2024 HairCare/8.png" alt="Hair Care 8" class="gallery-image">
+                <img src="articles/7-29-2024%20HairCare/1.png" alt="Hair Care 1" class="gallery-image">
+                <img src="articles/7-29-2024%20HairCare/2.png" alt="Hair Care 2" class="gallery-image">
+                <img src="articles/7-29-2024%20HairCare/3.png" alt="Hair Care 3" class="gallery-image">
+                <img src="articles/7-29-2024%20HairCare/4.png" alt="Hair Care 4" class="gallery-image">
+                <img src="articles/7-29-2024%20HairCare/5.png" alt="Hair Care 5" class="gallery-image">
+                <img src="articles/7-29-2024%20HairCare/6.png" alt="Hair Care 6" class="gallery-image">
+                <img src="articles/7-29-2024%20HairCare/7.png" alt="Hair Care 7" class="gallery-image">
+                <img src="articles/7-29-2024%20HairCare/8.png" alt="Hair Care 8" class="gallery-image">
             </div>
             
             <p>These hair care essentials remind us that great style starts with healthy foundations, and that taking care of your hair is an investment in your overall aesthetic and confidence.</p>
         `,
-        image: "articles/7-29-2024 HairCare/1.png",
+        image: "articles/7-29-2024%20HairCare/1.png",
         category: "Beauty",
         date: "2024-07-29"
     },
@@ -646,19 +646,19 @@ const blogPosts = [
             <p>True allure in fashion comes from understanding your body, choosing quality pieces, and wearing them with confidence. It's about creating looks that feel both powerful and effortless.</p>
             
             <div class="image-gallery">
-                <img src="articles/7-27-2024 SexyThings Pt.2/1.png" alt="Allure 1" class="gallery-image">
-                <img src="articles/7-27-2024 SexyThings Pt.2/2.png" alt="Allure 2" class="gallery-image">
-                <img src="articles/7-27-2024 SexyThings Pt.2/3.png" alt="Allure 3" class="gallery-image">
-                <img src="articles/7-27-2024 SexyThings Pt.2/4.png" alt="Allure 4" class="gallery-image">
-                <img src="articles/7-27-2024 SexyThings Pt.2/5.png" alt="Allure 5" class="gallery-image">
-                <img src="articles/7-27-2024 SexyThings Pt.2/6.png" alt="Allure 6" class="gallery-image">
-                <img src="articles/7-27-2024 SexyThings Pt.2/7.png" alt="Allure 7" class="gallery-image">
-                <img src="articles/7-27-2024 SexyThings Pt.2/8.png" alt="Allure 8" class="gallery-image">
+                <img src="articles/7-27-2024%20SexyThings%20Pt.2/1.png" alt="Allure 1" class="gallery-image">
+                <img src="articles/7-27-2024%20SexyThings%20Pt.2/2.png" alt="Allure 2" class="gallery-image">
+                <img src="articles/7-27-2024%20SexyThings%20Pt.2/3.png" alt="Allure 3" class="gallery-image">
+                <img src="articles/7-27-2024%20SexyThings%20Pt.2/4.png" alt="Allure 4" class="gallery-image">
+                <img src="articles/7-27-2024%20SexyThings%20Pt.2/5.png" alt="Allure 5" class="gallery-image">
+                <img src="articles/7-27-2024%20SexyThings%20Pt.2/6.png" alt="Allure 6" class="gallery-image">
+                <img src="articles/7-27-2024%20SexyThings%20Pt.2/7.png" alt="Allure 7" class="gallery-image">
+                <img src="articles/7-27-2024%20SexyThings%20Pt.2/8.png" alt="Allure 8" class="gallery-image">
             </div>
             
             <p>These looks demonstrate that the most attractive fashion choices are those that enhance your natural beauty and make you feel powerful, confident, and authentically yourself.</p>
         `,
-        image: "articles/7-27-2024 SexyThings Pt.2/1.png",
+        image: "articles/7-27-2024%20SexyThings%20Pt.2/1.png",
         category: "Style",
         date: "2024-07-27"
     },
@@ -673,19 +673,19 @@ const blogPosts = [
             <p>The best makeup enhances rather than masks, creating looks that feel both polished and authentic. These products and techniques represent the foundation of timeless beauty.</p>
             
             <div class="image-gallery">
-                <img src="articles/7-23-2024 My Fave Makeup/1.png" alt="Makeup 1" class="gallery-image">
-                <img src="articles/7-23-2024 My Fave Makeup/2.png" alt="Makeup 2" class="gallery-image">
-                <img src="articles/7-23-2024 My Fave Makeup/3.png" alt="Makeup 3" class="gallery-image">
-                <img src="articles/7-23-2024 My Fave Makeup/4.png" alt="Makeup 4" class="gallery-image">
-                <img src="articles/7-23-2024 My Fave Makeup/5.png" alt="Makeup 5" class="gallery-image">
-                <img src="articles/7-23-2024 My Fave Makeup/6.png" alt="Makeup 6" class="gallery-image">
-                <img src="articles/7-23-2024 My Fave Makeup/7.png" alt="Makeup 7" class="gallery-image">
-                <img src="articles/7-23-2024 My Fave Makeup/8.png" alt="Makeup 8" class="gallery-image">
+                <img src="articles/7-23-2024%20My%20Fave%20Makeup/1.png" alt="Makeup 1" class="gallery-image">
+                <img src="articles/7-23-2024%20My%20Fave%20Makeup/2.png" alt="Makeup 2" class="gallery-image">
+                <img src="articles/7-23-2024%20My%20Fave%20Makeup/3.png" alt="Makeup 3" class="gallery-image">
+                <img src="articles/7-23-2024%20My%20Fave%20Makeup/4.png" alt="Makeup 4" class="gallery-image">
+                <img src="articles/7-23-2024%20My%20Fave%20Makeup/5.png" alt="Makeup 5" class="gallery-image">
+                <img src="articles/7-23-2024%20My%20Fave%20Makeup/6.png" alt="Makeup 6" class="gallery-image">
+                <img src="articles/7-23-2024%20My%20Fave%20Makeup/7.png" alt="Makeup 7" class="gallery-image">
+                <img src="articles/7-23-2024%20My%20Fave%20Makeup/8.png" alt="Makeup 8" class="gallery-image">
             </div>
             
             <p>These beauty essentials remind us that great style is about the complete picture - from the perfect outfit to the finishing touches that make you feel confident and beautiful.</p>
         `,
-        image: "articles/7-23-2024 My Fave Makeup/1.png",
+        image: "articles/7-23-2024%20My%20Fave%20Makeup/1.png",
         category: "Beauty",
         date: "2024-07-23"
     },
@@ -700,17 +700,17 @@ const blogPosts = [
             <p>Gemini moon style is about embracing change, versatility, and the ability to adapt your look to match your mood and environment. It's fashion that speaks to intellectual curiosity and social connection.</p>
             
             <div class="image-gallery">
-                <img src="articles/Gemini Moon The Mood Board/1.png" alt="Gemini Moon 1" class="gallery-image">
-                <img src="articles/Gemini Moon The Mood Board/2.png" alt="Gemini Moon 2" class="gallery-image">
-                <img src="articles/Gemini Moon The Mood Board/3.png" alt="Gemini Moon 3" class="gallery-image">
-                <img src="articles/Gemini Moon The Mood Board/4.png" alt="Gemini Moon 4" class="gallery-image">
-                <img src="articles/Gemini Moon The Mood Board/5.png" alt="Gemini Moon 5" class="gallery-image">
-                <img src="articles/Gemini Moon The Mood Board/6.png" alt="Gemini Moon 6" class="gallery-image">
+                <img src="articles/Gemini%20Moon%20The%20Mood%20Board/1.png" alt="Gemini Moon 1" class="gallery-image">
+                <img src="articles/Gemini%20Moon%20The%20Mood%20Board/2.png" alt="Gemini Moon 2" class="gallery-image">
+                <img src="articles/Gemini%20Moon%20The%20Mood%20Board/3.png" alt="Gemini Moon 3" class="gallery-image">
+                <img src="articles/Gemini%20Moon%20The%20Mood%20Board/4.png" alt="Gemini Moon 4" class="gallery-image">
+                <img src="articles/Gemini%20Moon%20The%20Mood%20Board/5.png" alt="Gemini Moon 5" class="gallery-image">
+                <img src="articles/Gemini%20Moon%20The%20Mood%20Board/6.png" alt="Gemini Moon 6" class="gallery-image">
             </div>
             
             <p>This aesthetic celebrates the Gemini moon's ability to adapt and communicate through fashion, using clothing as a tool for intellectual expression and social connection.</p>
         `,
-        image: "articles/Gemini Moon The Mood Board/1.png",
+        image: "articles/Gemini%20Moon%20The%20Mood%20Board/1.png",
         category: "Astrology",
         date: "2024-06-15"
     },
@@ -725,17 +725,17 @@ const blogPosts = [
             <p>Libra rising style is about creating harmony in every look, choosing pieces that are beautiful, balanced, and effortlessly elegant. It's fashion that reflects a natural understanding of aesthetics and proportion.</p>
             
             <div class="image-gallery">
-                <img src="articles/Libra Rising The Mood Board/1.png" alt="Libra Rising 1" class="gallery-image">
-                <img src="articles/Libra Rising The Mood Board/2.png" alt="Libra Rising 2" class="gallery-image">
-                <img src="articles/Libra Rising The Mood Board/3.png" alt="Libra Rising 3" class="gallery-image">
-                <img src="articles/Libra Rising The Mood Board/4.png" alt="Libra Rising 4" class="gallery-image">
-                <img src="articles/Libra Rising The Mood Board/5.png" alt="Libra Rising 5" class="gallery-image">
-                <img src="articles/Libra Rising The Mood Board/6.png" alt="Libra Rising 6" class="gallery-image">
+                <img src="articles/Libra%20Rising%20The%20Mood%20Board/1.png" alt="Libra Rising 1" class="gallery-image">
+                <img src="articles/Libra%20Rising%20The%20Mood%20Board/2.png" alt="Libra Rising 2" class="gallery-image">
+                <img src="articles/Libra%20Rising%20The%20Mood%20Board/3.png" alt="Libra Rising 3" class="gallery-image">
+                <img src="articles/Libra%20Rising%20The%20Mood%20Board/4.png" alt="Libra Rising 4" class="gallery-image">
+                <img src="articles/Libra%20Rising%20The%20Mood%20Board/5.png" alt="Libra Rising 5" class="gallery-image">
+                <img src="articles/Libra%20Rising%20The%20Mood%20Board/6.png" alt="Libra Rising 6" class="gallery-image">
             </div>
             
             <p>This aesthetic celebrates the Libra rising's innate sense of beauty and balance, using fashion as a tool for creating harmony and expressing natural elegance.</p>
         `,
-        image: "articles/Libra Rising The Mood Board/1.png",
+        image: "articles/Libra%20Rising%20The%20Mood%20Board/1.png",
         category: "Astrology",
         date: "2024-06-10"
     }
