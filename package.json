@@ -1,0 +1,23 @@
+{
+  "name": "chic-shit-blog",
+  "version": "1.0.0",
+  "description": "Fashion blog with optimized image loading",
+  "main": "script.js",
+  "scripts": {
+    "check-images": "node check-images.js",
+    "optimize-images": "node optimize-images.js",
+    "start": "python -m http.server 8000",
+    "deploy": "chmod +x deploy.sh && ./deploy.sh",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["fashion", "blog", "images", "optimization"],
+  "author": "Annabel Goldman",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.32.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=16.0.0"
+  }
+} 

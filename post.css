@@ -1,0 +1,517 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Custom font imports */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&family=League+Spartan:wght@400;700&display=swap');
+
+/* CSS Variables for color scheme */
+:root {
+    --dark-grey: #59656f;
+    --light-green: #e5f4e3;
+    --pink: #f4acb7;
+    --black: #000000;
+    --white: #e5f4e3;
+    --shadow: rgba(0, 0, 0, 0.1);
+}
+
+/* Base body styling */
+body {
+    font-family: 'League Spartan', Arial, sans-serif;
+    font-weight: 700;
+    background-color: var(--dark-grey);
+    color: var(--white);
+    line-height: 1.6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Container for centering content */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header styling */
+.header {
+    background-color: var(--dark-grey);
+    padding: 12px 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    border-bottom: 2px solid var(--white);
+}
+
+.header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.logo {
+    font-family: 'League Spartan', Arial, sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--light-green);
+    text-decoration: none;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.logo:hover {
+    color: var(--pink);
+    text-decoration: none;
+}
+
+.logo:visited {
+    color: var(--light-green);
+}
+
+.logo-image {
+    height: 40px;
+    width: auto;
+    object-fit: contain;
+}
+
+/* Navigation back button - POST PAGE SPECIFIC */
+.nav-back {
+    display: flex;
+    align-items: center;
+}
+
+.back-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--white);
+    text-decoration: none;
+    font-weight: 700;
+    padding: 8px 16px;
+    background-color: var(--dark-grey);
+    border-radius: 0;
+    transition: background-color 0.3s ease;
+}
+
+.back-btn:hover {
+    background-color: var(--pink);
+    color: var(--black);
+}
+
+/* Main content */
+.main-content {
+    flex: 1;
+    padding: 5px 0 40px 0;
+}
+
+/* Full post page - POST PAGE SPECIFIC */
+.post-full {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.post-full-header {
+    padding: 30px;
+    text-align: center;
+}
+
+.post-full-title {
+    font-family: 'League Spartan', Arial, sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: var(--white);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.post-full-meta {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.9rem;
+    color: var(--light-green);
+}
+
+.post-full-image {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    display: block;
+}
+
+.post-full-content {
+    padding: 30px;
+    color: var(--white);
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.post-full-content h2 {
+    font-family: 'League Spartan', Arial, sans-serif;
+    font-size: 1.8rem;
+    margin: 30px 0 15px 0;
+    color: var(--white);
+    text-transform: uppercase;
+}
+
+.post-full-content h3 {
+    font-family: 'League Spartan', Arial, sans-serif;
+    font-size: 1.4rem;
+    margin: 25px 0 12px 0;
+    color: var(--light-green);
+}
+
+.post-full-content p {
+    margin-bottom: 20px;
+    line-height: 1.7;
+    color: var(--white);
+}
+
+.post-full-content ul {
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+
+.post-full-content li {
+    margin-bottom: 8px;
+    line-height: 1.6;
+    color: var(--white);
+}
+
+.post-full-content strong {
+    color: var(--pink);
+}
+
+.post-full-content img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+    border: 3px solid var(--light-green);
+    transition: opacity 0.3s ease;
+}
+
+/* Lazy loading image styles */
+.gallery-image.lazy {
+    opacity: 0;
+    background: var(--dark-grey);
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gallery-image.lazy::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin: -10px 0 0 -10px;
+    border: 2px solid var(--light-green);
+    border-top: 2px solid transparent;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+.gallery-image.lazy.loaded {
+    opacity: 1;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Image carousel for posts - POST PAGE SPECIFIC */
+.image-carousel {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    margin: 20px 0;
+}
+
+.carousel-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 600px;
+}
+
+.carousel-track {
+    display: flex;
+    transition: transform 0.5s ease;
+    height: 100%;
+}
+
+.carousel-slide {
+    flex: 0 0 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 20px;
+}
+
+.carousel-image {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    display: block;
+    border: 3px solid var(--white);
+}
+
+.carousel-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    color: var(--pink);
+    border: none;
+    padding: 15px 20px;
+    font-size: 24px;
+    font-weight: 700;
+    cursor: pointer;
+    z-index: 10;
+    transition: color 0.3s ease;
+    border-radius: 0;
+}
+
+.carousel-button:hover {
+    color: var(--light-green);
+}
+
+.carousel-button:focus {
+    outline: none;
+}
+
+.carousel-button.prev {
+    left: 60px;
+}
+
+.carousel-button.next {
+    right: 60px;
+}
+
+.carousel-indicators {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px 0;
+}
+
+.carousel-indicator {
+    width: 12px;
+    height: 12px;
+    background-color: var(--pink);
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-radius: 0;
+}
+
+.carousel-indicator.active {
+    background-color: var(--white);
+}
+
+.carousel-indicator:hover {
+    background-color: var(--light-green);
+}
+
+.carousel-indicator:focus {
+    outline: none;
+}
+
+
+
+/* Post category styling */
+.post-category {
+    background-color: var(--pink);
+    color: var(--black);
+    padding: 4px 8px;
+    border-radius: 0;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+}
+
+.post-date {
+    font-weight: 700;
+    color: var(--light-green);
+}
+
+/* Loading state */
+.post-loading {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--dark-grey);
+}
+
+/* Footer */
+.footer {
+    background-color: var(--dark-grey);
+    color: var(--white);
+    text-align: center;
+    padding: 30px 0 40px 0;
+    margin-top: auto;
+}
+
+.footer p {
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+
+.footer a {
+    color: var(--light-green);
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.footer a:hover {
+    color: var(--pink);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .header .container {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .logo {
+        font-size: 2rem;
+    }
+    
+    .logo-image {
+        height: 35px;
+    }
+    
+    .post-full-title {
+        font-size: 2rem;
+    }
+    
+    .post-full-header,
+    .post-full-content {
+        padding: 20px;
+    }
+    
+
+    
+    .carousel-container {
+        height: 500px;
+    }
+    
+    .carousel-button {
+        padding: 10px 15px;
+        font-size: 20px;
+    }
+    
+    .carousel-button.prev {
+        left: 40px;
+    }
+    
+    .carousel-button.next {
+        right: 40px;
+    }
+    
+
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 0 15px;
+    }
+    
+    .logo {
+        font-size: 1.8rem;
+    }
+    
+    .logo-image {
+        height: 30px;
+    }
+    
+    .post-full-title {
+        font-size: 1.8rem;
+    }
+    
+    .post-full-header,
+    .post-full-content {
+        padding: 15px;
+    }
+    
+    .carousel-container {
+        height: 400px;
+    }
+    
+    .carousel-button {
+        padding: 8px 12px;
+        font-size: 18px;
+    }
+    
+    .carousel-button.prev {
+        left: 30px;
+    }
+    
+    .carousel-button.next {
+        right: 30px;
+    }
+    
+    .carousel-indicators {
+        padding: 15px 0;
+    }
+    
+    .carousel-indicator {
+        width: 10px;
+        height: 10px;
+    }
+}
+
+/* Utility classes */
+.text-center {
+    text-align: center;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+/* Sharp edges emphasis */
+button, .post-full, .back-btn, .post-category {
+    border-radius: 0 !important;
+}
+
+/* Hover effects for interactivity */
+.back-btn, .gallery-image {
+    transition: all 0.3s ease;
+}
+
+/* Focus states for accessibility */
+.back-btn:focus {
+    outline: 3px solid var(--pink);
+    outline-offset: 2px;
+}
+
+button:focus {
+    outline: 3px solid var(--pink);
+    outline-offset: 2px;
+} 
